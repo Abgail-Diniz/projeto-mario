@@ -1,7 +1,9 @@
 @media (max-width: 1200px) {
     body{
 
-        background: linear-gradient(90deg, rgba(0,0,0,0.85) 0%, rgba(184,49,39,0.94) 50%, rgba(0,0,0,0.85) 100%)
+        background: linear-gradient(90deg, rgba(50,4,0,1) 0%, rgba(184,39,39,0.9556197478991597) 50%, rgba(50,4,0,1) 100%);
+        
+        
     }
     
     .fundo-video{
